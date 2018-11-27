@@ -7,5 +7,7 @@ public class test {
     public void math(){
         int i = 0;
         i +=10;
+        //打印i的结果
+        System.out.println(i);
     }
 }
